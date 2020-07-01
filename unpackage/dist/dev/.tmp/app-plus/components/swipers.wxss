@@ -1,0 +1,15 @@
+.slider-wrap.data-v-44a1afa2 {
+  width: 100%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.slider-wrap .slider-img.data-v-44a1afa2 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 15rpx;
+}
+.slider-wrap .text.data-v-44a1afa2 {
+  color: inherit;
+}
+

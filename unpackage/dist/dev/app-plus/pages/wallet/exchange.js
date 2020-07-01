@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"willgetBox { min-width: 35%; }\n.",[1],"r50 { right: 50px; }\n.",[1],"z-index-101 { z-index: 101; }\n.",[1],"lh28 { line-height: 28px; }\n.",[1],"img { width: 25px; height: 25px; margin-right: 20px; }\n.",[1],"w80 { width: 80% !important; }\n.",[1],"show { display: block; }\n.",[1],"hide { display: none; }\n",],undefined,{path:"./pages/wallet/exchange.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/wallet/exchange.wxml') } }));

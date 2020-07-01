@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"bg-white-3 { background-color: rgba(255, 255, 255, 0.3); }\n",],undefined,{path:"./pages/home/profit.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/profit.wxml') } }));

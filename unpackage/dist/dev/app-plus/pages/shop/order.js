@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"bt1 { border-top: 0.5px solid #e9e9e9 !important; }\n.",[1],"bt1 { border-top: 0.5px solid #f2f2f2; }\n.",[1],"sy-pics { width: ",[0,240],"; height: ",[0,240],"; }\n.",[1],"bg-servies { background-color: #1B1A4A !important; }\n.",[1],"text-boxs { width: calc(100% - ",[0,280],"); }\n",],undefined,{path:"./pages/shop/order.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/shop/order.wxml') } }));

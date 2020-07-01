@@ -1,0 +1,105 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{ "path": "pages/guid/index" },
+		{ "path": "pages/home/index" },
+		{ "path": "pages/home/conduct" },
+		{ "path": "pages/home/appointR" },
+		{ "path": "pages/home/profit" },
+		{ "path": "pages/home/profitR" },
+		{ "path": "pages/home/reborn" },
+		{ "path": "pages/home/rebornData" },
+		{ "path": "pages/home/exchange" },
+		{ "path": "pages/wallet/index" },
+		{ "path": "pages/wallet/walletD" },
+		{ "path": "pages/wallet/recharge" },
+		{ "path": "pages/wallet/withdrawal" },
+		{ "path": "pages/wallet/transfer" },
+		{ "path": "pages/wallet/exchange" },
+		{ "path": "pages/otc/index" },
+		{ "path": "pages/ecology/index" },
+		{ "path": "pages/user/index" },
+		{ "path": "pages/user/team" },
+		{ "path": "pages/user/share" },
+		{ "path": "pages/user/system" },
+		{ "path": "pages/user/article" },
+		{ "path": "pages/user/safety" },
+		{ "path": "pages/user/changePw" },
+		{ "path": "pages/mnemonic/index" },
+		{ "path": "pages/mnemonic/second" },
+		{ "path": "pages/shop/index" },
+		{ "path": "pages/shop/shopclass" },
+		{ "path": "pages/shop/goods" },
+		{ "path": "pages/shop/order" },
+		{ "path": "pages/shop/address/index" },
+		{ "path": "pages/shop/address/addEdit" },
+		{ "path": "pages/shop/address/addEditt" },
+		{ "path": "pages/shop/confirm" },
+		{ "path": "pages/login/index" },
+		{ "path": "pages/login/forget" },
+		{ "path": "pages/login/register" },
+		{ "path": "pages/login/download" },
+		{ "path": "pages/web" }
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "金牛",
+		"navigationBarBackgroundColor": "#021E34",
+		"backgroundColor": "#021E34",
+		"navigationStyle": "custom",
+		"backgroundColorTop": "#021E34",
+		"backgroundColorBottom": "#021E34",
+		"enablePullDownRefresh": false,
+		"app-plus": {
+			"bounce": "none",
+			"scrollIndicator": "none"
+		}
+	},
+	"tabBar": {
+		"color": "#67737d",
+		"selectedColor": "#26B5FF",
+		"borderStyle": "black",
+		"backgroundColor": "#010035",
+		"list": [
+			{
+				"pagePath": "pages/home/index",
+				"text": "首页",
+				"iconPath": "static/tabbar/tabbar1@2x.png",
+				"selectedIconPath": "static/tabbar/tabbar1_active@2x.png"
+			},
+			{
+				"pagePath": "pages/wallet/index",
+				"text": "钱包",
+				"iconPath": "static/tabbar/tabbar2@2x.png",
+				"selectedIconPath": "static/tabbar/tabbar2_active@2x.png"
+			},
+			// {
+			// 	"pagePath": "pages/otc/index",
+			// 	"text": "OTC",
+			// 	"iconPath": "static/tabbar/tabbar3@2x.png",
+			// 	"selectedIconPath": "static/tabbar/tabbar3_active@2x.png"
+			// },
+			{
+				"pagePath": "pages/ecology/index",
+				"text": "生态",
+				"iconPath": "static/tabbar/tabbar4@2x.png",
+				"selectedIconPath": "static/tabbar/tabbar4_active@2x.png"
+			},
+			{
+				"pagePath": "pages/user/index",
+				"text": "我的",
+				"iconPath": "static/tabbar/tabbar5@2x.png",
+				"selectedIconPath": "static/tabbar/tabbar5_active@2x.png"
+			}
+		]
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
+	}
+}

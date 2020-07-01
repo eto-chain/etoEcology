@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"z-index-101 { z-index: 101; }\n",],undefined,{path:"./pages/login/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/index.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"block32 { width: ",[0,64],"; height: ",[0,64],"; }\n.",[1],"wp33 { width: 33.3%; }\n.",[1],"h130 { height: ",[0,260],"; }\n.",[1],"pb30 { padding-bottom: ",[0,60],"; }\n.",[1],"bg-servies { background-color: #1B1A4A !important; }\n",],undefined,{path:"./pages/ecology/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/ecology/index.wxml') } }));

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "swipers": "/components/swipers",
+    "u-parse": "/components/parse/parse",
+    "uni-number-box": "/components/uni-number-box/uni-number-box"
+  }
+}

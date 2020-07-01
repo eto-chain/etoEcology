@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"leftText { min-width: ",[0,150],"; }\n.",[1],"change-language .",[1],"dropdown, .",[1],"select .",[1],"dropdown { max-height: ",[0,350]," !important; overflow-y: auto; }\n",],undefined,{path:"./pages/login/register.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/register.wxml') } }));

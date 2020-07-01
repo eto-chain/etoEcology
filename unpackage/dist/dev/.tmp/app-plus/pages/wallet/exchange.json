@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "cu-custom": "/components/cu-custom/cu-custom",
+    "evan-form": "/components/evan-form/evan-form",
+    "evan-form-item": "/components/evan-form-item/evan-form-item"
+  }
+}

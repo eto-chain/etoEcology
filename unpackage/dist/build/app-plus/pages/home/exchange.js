@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"willgetBox { min-width: 35%; }\n",],undefined,{path:"./pages/home/exchange.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/exchange.wxml') } }));

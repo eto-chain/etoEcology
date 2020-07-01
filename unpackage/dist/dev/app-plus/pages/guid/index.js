@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"start-img { position: fixed; top: 0; bottom: 0; left: 0; right: 0; }\n",],undefined,{path:"./pages/guid/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/guid/index.wxml') } }));

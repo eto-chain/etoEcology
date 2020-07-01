@@ -1,0 +1,17 @@
+.block32 {
+  width: 64rpx;
+  height: 64rpx;
+}
+.wp33 {
+  width: 33.3%;
+}
+.h130 {
+  height: 260rpx;
+}
+.pb30 {
+  padding-bottom: 60rpx;
+}
+.bg-servies {
+  background-color: #1B1A4A !important;
+}
+

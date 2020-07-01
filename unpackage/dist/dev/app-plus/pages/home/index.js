@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"menuBg { height: ",[0,210],"; }\n.",[1],"lineBg { background-color: rgba(255, 255, 255, 0.2); }\n.",[1],"bannerH { height: ",[0,320],"; }\n",],undefined,{path:"./pages/home/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/home/index.wxml') } }));

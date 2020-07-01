@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"eachBox { width: calc((100% - ",[0,90],") / 4); }\n.",[1],"choosed { background-color: rgba(255, 255, 255, 0.3); }\n",],undefined,{path:"./pages/mnemonic/second.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/mnemonic/second.wxml') } }));

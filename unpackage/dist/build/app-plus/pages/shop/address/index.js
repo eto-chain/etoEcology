@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"color-radiogreen { color: #3cb64d !important; }\n.",[1],"bt1 { border-top: 0.5px solid #F2F2F2; }\n.",[1],"br1 { border-right: 0.5px solid #F2F2F2; }\n.",[1],"w-50 { width: 50%; }\n.",[1],"block12 { width: ",[0,24],"; height: ",[0,24],"; }\n.",[1],"bg-servies { background-color: #1B1A4A !important; }\n.",[1],"color-bluss { color: #2f90b9 !important; }\n",],undefined,{path:"./pages/shop/address/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/shop/address/index.wxml') } }));

@@ -1,0 +1,27 @@
+.willgetBox {
+  min-width: 35%;
+}
+.r50 {
+  right: 50px;
+}
+.z-index-101 {
+  z-index: 101;
+}
+.lh28 {
+  line-height: 28px;
+}
+.img {
+  width: 25px;
+  height: 25px;
+  margin-right: 20px;
+}
+.w80 {
+  width: 80% !important;
+}
+.show {
+  display: block;
+}
+.hide {
+  display: none;
+}
+

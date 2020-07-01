@@ -1,0 +1,1 @@
+<view class="otc clearfix lh1 hv100 flex-text"><view class="f16 mt-50">{{i18n.tip}}</view></view>

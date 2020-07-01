@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"bg-servies { background-color: #1B1A4A !important; }\n",],undefined,{path:"./pages/shop/address/addEdit.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/shop/address/addEdit.wxml') } }));

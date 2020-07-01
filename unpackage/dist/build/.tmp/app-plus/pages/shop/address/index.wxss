@@ -1,0 +1,23 @@
+.color-radiogreen {
+  color: #3cb64d !important;
+}
+.bt1 {
+  border-top: 0.5px solid #F2F2F2;
+}
+.br1 {
+  border-right: 0.5px solid #F2F2F2;
+}
+.w-50 {
+  width: 50%;
+}
+.block12 {
+  width: 24rpx;
+  height: 24rpx;
+}
+.bg-servies {
+  background-color: #1B1A4A !important;
+}
+.color-bluss {
+  color: #2f90b9 !important;
+}
+

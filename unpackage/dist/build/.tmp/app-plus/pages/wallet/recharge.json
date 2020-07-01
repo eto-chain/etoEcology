@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/components/cu-custom/cu-custom",
+    "tki-qrcod": "/components/tki-qrcode/tki-qrcode"
+  }
+}

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"z-index-101 { z-index: 101; }\n.",[1],"mt-50 { margin-top: ",[0,-100],"; }\n",],undefined,{path:"./pages/user/share.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/share.wxml') } }));

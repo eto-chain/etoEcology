@@ -1,0 +1,9 @@
+.leftText {
+  min-width: 150rpx;
+}
+.change-language .dropdown,
+.select .dropdown {
+  max-height: 350rpx !important;
+  overflow-y: auto;
+}
+

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"closeBtn { position: absolute; right: ",[0,20],"; top: ",[0,20],"; }\n.",[1],"bg-white-3 { background-color: rgba(255, 255, 255, 0.3); }\n",],undefined,{path:"./pages/user/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/index.wxml') } }));
